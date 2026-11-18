@@ -1,0 +1,6 @@
+PAQUETE PARA PUBLICAR EN INTERNET - San Martín Distribuidora Ecológica
+
+Contiene el catálogo para clientes (index.html) listo para publicarse con un enlace.
+1) Entra a https://app.netlify.com/drop
+2) Arrastra este .zip (o la carpeta descomprimida) a la página.
+3) Copia el enlace que te entrega y envíalo a tus clientes en lugar del archivo.
